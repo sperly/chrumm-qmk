@@ -5,7 +5,7 @@
     "url": "https://github.com/sevmeyer/chrumm-keyboard",
     "usb": {
         "device_version": "1.0.0",
-        "vid": "0xFEED",
+        "vid": "0xCAFE",
         "pid": "0x5E7C"
     },
     "processor": "RP2040",

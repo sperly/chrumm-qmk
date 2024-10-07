@@ -1,6 +1,6 @@
 { 
-    "name": "Chrumm",
-    "vendorId": "0xFEED",
+    "name": "Chrumm QMK",
+    "vendorId": "0xCAFE",
     "productId": "0x5E7C",
     "matrix": {"rows": 5, "cols": 13},
     "layouts": {
